@@ -10,7 +10,7 @@
  * NODE_ENV=production node app
  * ```
  *
- * > If you're using git as a version control solution for your Sails app,
+ *VCO, VCF, VCA, Envelope, etc [Many of and belogs to Flavor] > If you're using git as a version control solution for your Sails app,
  * > this file WILL BE COMMITTED to your repository by default, unless you add
  * > it to your .gitignore file.  If your repository will be publicly viewable,
  * > don't add private/sensitive data (like API secrets / db passwords) to this file!

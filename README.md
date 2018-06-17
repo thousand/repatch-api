@@ -1,7 +1,7 @@
 # repatch-api
 
-a [Sails v1](https://sailsjs.com) application
-
+hahah. hahahahha. hahaha. ha. I don't know how to API. PRs very welcome. Hell, even rewrite the thing from the ground
+up, just let me know.
 
 ### Links
 
